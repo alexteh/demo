@@ -9,7 +9,7 @@
         <link rel="author" href="humans.txt">
     </head>
     <body>
-        <p>testing23456</p>
+        <p>DEMO SITE</p>
         <script src="js/main.js"></script>
     </body>
 </html>
